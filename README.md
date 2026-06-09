@@ -2,6 +2,7 @@
 
 <img src="images/pisketch-body.jpg" height="260px"> <img src="images/sketch-sample1.jpg" height="260px">
 
+[video](https://x.com/gangi_man/status/2064317082221830599)
 
 ## Overview
 
